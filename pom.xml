@@ -48,9 +48,6 @@
             <properties>
                 <project.build.number>${env.BUILD_NUMBER}</project.build.number>
             </properties>
-            <modules>
-                <module>javadoc</module>
-            </modules>
         </profile>
     </profiles>
 
